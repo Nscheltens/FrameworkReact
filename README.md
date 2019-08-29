@@ -16,7 +16,8 @@ located in '/client' build with node react javascript. There is no css
 definalty in need of polish, some bugs, and a few security flaws, I will
 address these in the future as I learn more.
 
-Deleopment time line:
+Deleopment timeline:
+
 I was given the porject Thursday 8/22/19, but I started this project on Friday 
 8/23/19 that day was dedicated to road mapping the time needed for each section 
 of the project. the following weekend was used to brush up on the react framework 
